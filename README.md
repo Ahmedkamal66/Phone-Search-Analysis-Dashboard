@@ -44,4 +44,4 @@ The dataset includes the following key columns:
 * `sales_volume`: Total sales recorded per product.
 """
 ## Dashboard
-
+![image](https://github.com/Ahmedkamal66/Phone-Search-Analysis-Dashboard/blob/main/Dashboard.png)
